@@ -9,6 +9,6 @@ public class Station implements sellTicket{
 
     @Override
     public void back() {
-        System.out.println("火车站退票");
+        System.out.println("sddsddsd");
     }
 }
