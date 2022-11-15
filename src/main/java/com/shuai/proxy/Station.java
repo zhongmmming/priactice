@@ -10,5 +10,6 @@ public class Station implements sellTicket{
     @Override
     public void back() {
         System.out.println("sddsddsd");
+        System.out.println("hotfix");
     }
 }
