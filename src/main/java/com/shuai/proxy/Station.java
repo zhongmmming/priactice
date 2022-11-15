@@ -12,5 +12,6 @@ public class Station implements sellTicket{
         System.out.println("sddsddsd");
         System.out.println("hotfix");
         System.out.println("master test2");
+        System.out.println("hotfix test2");
     }
 }
