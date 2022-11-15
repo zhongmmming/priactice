@@ -11,5 +11,6 @@ public class Station implements sellTicket{
     public void back() {
         System.out.println("sddsddsd");
         System.out.println("hotfix");
+        System.out.println("master test");
     }
 }
